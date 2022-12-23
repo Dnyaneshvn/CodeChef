@@ -1,2 +1,2 @@
 # CodeChef
-Here, In this repo I add CodeChef solutions
+Here, In this repo I added problems those I solved.
